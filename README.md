@@ -27,7 +27,7 @@
 
 - Download the zip file and extract it in local.
 - Open VS Code.
-- Drag and drop main.py to VS Code window and run by clicking play button on top right corner.
+- Drag and drop **main.py** to VS Code window and run by clicking play button on top right corner.
 
 ---
 
